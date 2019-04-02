@@ -1,7 +1,7 @@
 # Admin Only Jetpack
 
 * Contributors: [Andy Fragen](https://github.com/afragen)
-* Tags: remove-menu, jetpack
+* Tags: menu, jetpack
 * Requires at least: 4.9
 * Requires PHP: 5.3
 * Tested up to: 5.1
