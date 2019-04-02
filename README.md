@@ -15,6 +15,8 @@ Show Jetpack menu for Admin users only.
 
 Only show the Jetpack menu to admin privileged users. Hide the menu from all other users.
 
+Consider this a loose fork of [Jetpack Only for Admins](https://wordpress.org/plugins/jetpack-only-for-admins/) by [Andrija Naglic](http://profiles.wordpress.org/andrija).
+
 ## Development
 
 PRs are welcome against the `develop` branch.
