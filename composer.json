@@ -4,8 +4,9 @@
   "type": "wordpress-plugin",
   "keywords": [
     "jetpack",
-    "remove-menu",
-    "admin-user"
+    "hide",
+    "menu",
+    "admin"
   ],
   "license": "MIT",
   "authors": [
