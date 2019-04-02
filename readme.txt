@@ -2,7 +2,7 @@
 
 Contributors: afragen
 Tags: remove-menu, jetpack
-Requires at least: 4.6
+Requires at least: 4.9
 Requires PHP: 5.3
 Tested up to: 5.1
 Stable tag: master
@@ -20,3 +20,6 @@ Only show the Jetpack menu to admin privileged users. Hide the menu from all oth
 PRs are welcome against the `develop` branch.
 
 ## Changelog
+
+#### 0.1
+* initial commit

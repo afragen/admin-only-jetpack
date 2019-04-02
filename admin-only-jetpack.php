@@ -11,14 +11,14 @@
  * Plugin Name:       Admin Only Jetpack
  * Plugin URI:        https://github.com/afragen/admin-only-jetpack
  * Description:       Show Jetpack menu for Admin users only.
- * Version:           0.0.1
+ * Version:           0.1
  * Author:            Andy Fragen
  * License:           MIT
  * Network:           true
  * Text Domain:       admin-only-jetpack
  * Domain Path:       /languages
  * GitHub Plugin URI: https://github.com/afragen/admin-only-jetpack
- * Requires WP:       4.6
+ * Requires WP:       4.9
  * Requires PHP:      5.3
  */
 

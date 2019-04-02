@@ -2,7 +2,7 @@
 
 * Contributors: [Andy Fragen](https://github.com/afragen)
 * Tags: remove-menu, jetpack
-* Requires at least: 4.6
+* Requires at least: 4.9
 * Requires PHP: 5.3
 * Tested up to: 5.1
 * Stable tag: master
