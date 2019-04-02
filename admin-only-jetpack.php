@@ -31,13 +31,3 @@ add_action(
 	},
 	999
 );
-
-// TODO: is this necessary? Icon is now dashicon
-add_action(
-	'admin_head',
-	function() {
-		if ( class_exists( 'Jetpack' ) && ! current_user_can( 'manage_options' ) ) {
-			//echo "\n" . '<style type="text/css" media="screen">#wp-admin-bar-notes { display: none; }</style>' . "\n";
-		}
-	}
-);
