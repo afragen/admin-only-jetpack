@@ -1,11 +1,11 @@
 # Admin Only Jetpack
 
 Contributors: afragen
-Tags: admin, hide, menu, jetpack
+Tags: jetpack, hide, admin, menu
 Requires at least: 4.9
 Requires PHP: 5.3
 Tested up to: 5.1
-Stable tag: master
+Stable tag: x.x.x
 Donate link: <https://thefragens.com/github-updater-donate>
 License: MIT
 
@@ -23,5 +23,5 @@ PRs are welcome against the `develop` branch.
 
 ## Changelog
 
-#### 0.1
+#### x.x.x
 * initial commit

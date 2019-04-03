@@ -5,8 +5,8 @@
   "keywords": [
     "jetpack",
     "hide",
-    "menu",
-    "admin"
+    "admin",
+    "menu"
   ],
   "license": "MIT",
   "authors": [
@@ -33,7 +33,7 @@
   },
   "scripts": {
     "post-update-cmd": [
-      "wp i18n make-pot . languages/wp-debugging.pot"
+      "wp i18n make-pot . languages/admin-only-jetpack.pot"
     ]
   }
 }
