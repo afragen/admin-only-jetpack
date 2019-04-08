@@ -1,0 +1,39 @@
+{
+  "name": "afragen/admin-only-jetpack",
+  "description": "Show Jetpack menu for Admin users only.",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "jetpack",
+    "hide",
+    "admin",
+    "menu"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andy Fragen",
+      "email": "andy@thefragens.com",
+      "homepage": "https://thefragens.com",
+      "role": "Developer"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/afragen/admin-only-jetpack"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/afragen/admin-only-jetpack/issues",
+    "source": "https://github.com/afragen/admin-only-jetpack"
+  },
+  "prefer-stable": true,
+  "require": {
+    "php": ">=5.3"
+  },
+  "scripts": {
+    "post-update-cmd": [
+      "wp i18n make-pot . languages/admin-only-jetpack.pot"
+    ]
+  }
+}

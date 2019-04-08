@@ -1,13 +1,13 @@
 # Admin Only Jetpack
 
-* Contributors: [Andy Fragen](https://github.com/afragen)
-* Tags: jetpack, hide, admin, menu
-* Requires at least: 4.9
-* Requires PHP: 5.3
-* Tested up to: 5.1
-* Stable tag: master
-* Donate link: <https://thefragens.com/github-updater-donate>
-* License: MIT
+Contributors: afragen
+Tags: jetpack, hide, admin, menu
+Requires at least: 4.9
+Requires PHP: 5.3
+Tested up to: 5.1
+Stable tag: x.x.x
+Donate link: <https://thefragens.com/github-updater-donate>
+License: MIT
 
 Show Jetpack menu for Admin users only.
 
@@ -20,3 +20,8 @@ Consider this a loose fork of [Jetpack Only for Admins](https://wordpress.org/pl
 ## Development
 
 PRs are welcome against the `develop` branch.
+
+## Changelog
+
+#### x.x.x
+* initial commit
