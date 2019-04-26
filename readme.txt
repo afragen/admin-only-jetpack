@@ -4,8 +4,8 @@ Contributors: afragen
 Tags: jetpack, hide, admin, menu
 Requires at least: 4.9
 Requires PHP: 5.3
-Tested up to: 5.1
-Stable tag: x.x.x
+Tested up to: 5.2
+Stable tag: 1.0.0
 Donate link: <https://thefragens.com/github-updater-donate>
 License: MIT
 
@@ -23,5 +23,5 @@ PRs are welcome against the `develop` branch.
 
 ## Changelog
 
-#### x.x.x
+#### 1.0.0
 * initial commit
