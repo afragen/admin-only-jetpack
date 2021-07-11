@@ -5,3 +5,4 @@
 composer.json export-ignore
 composer.lock export-ignore
 /.github export-ignore
+/.wordpress-org export-ignore
